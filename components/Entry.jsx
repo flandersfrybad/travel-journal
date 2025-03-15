@@ -1,4 +1,4 @@
-import marker from "../images/marker.png"
+import marker from "https://github.com/flandersfrybad/travel-journal/blob/main/images/marker.png"
 
 export default function Entry(props) {
     return (
