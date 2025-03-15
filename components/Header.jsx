@@ -1,7 +1,7 @@
 export default function Header() {
     return (
         <header>
-            <img src="https://github.com/flandersfrybad/travel-journal/tree/main/images/globe.png" alt="globe icon" />
+            <img src="https://github.com/flandersfrybad/travel-journal/tree/main/images/globe.png?raw=true" alt="globe icon" />
             <h1>my travel journal.</h1>
         </header>
     );
