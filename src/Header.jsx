@@ -1,4 +1,4 @@
-import globePath from "http://github.com/flandersfrybad/travel-journal/blob/main/dist/images/globe.png"
+const globePath = "http://github.com/flandersfrybad/travel-journal/blob/main/dist/images/globe.png"
 
 export default function Header() {
     return (
