@@ -1,5 +1,3 @@
-import marker from "https://github.com/flandersfrybad/travel-journal/blob/main/images/marker.png?raw=true"
-
 export default function Entry(props) {
     return (
         <article className="journal-entry">
@@ -13,7 +11,7 @@ export default function Entry(props) {
             <div className="info-container">
                 <img 
                     className="marker"
-                    src={marker}
+                    src="../images/marker.png"
                     alt="map marker icon"
                 />
                 <span className="country">{props.country}</span>
