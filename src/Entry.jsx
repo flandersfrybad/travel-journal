@@ -1,4 +1,4 @@
-import markerPath from "https://github.com/flandersfrybad/travel-journal/blob/main/dist/images/marker.png?raw=true"
+import markerPath from "https://github.com/flandersfrybad/travel-journal/blob/main/dist/images/marker.png"
 
 export default function Entry(props) {
     return (
