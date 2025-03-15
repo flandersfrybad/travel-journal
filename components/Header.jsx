@@ -1,4 +1,4 @@
-import globePath from "./images/globe.png"
+import globePath from "/images/globe.png"
 
 export default function Header() {
     return (
