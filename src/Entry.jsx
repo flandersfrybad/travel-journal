@@ -1,4 +1,4 @@
-import markerPath from '/images/marker.png'
+import markerPath from './images/marker.png'
 
 export default function Entry(props) {
     return (
