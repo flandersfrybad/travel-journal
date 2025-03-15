@@ -1,4 +1,4 @@
-import globe from '../images/globe.png'
+import globe from "https://github.com/flandersfrybad/travel-journal/blob/main/images/globe.png?raw=true"
 
 export default function Header() {
     return (
