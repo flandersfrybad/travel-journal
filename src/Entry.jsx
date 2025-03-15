@@ -1,4 +1,4 @@
-const markerPath = "https://github.com/flandersfrybad/travel-journal/blob/main/dist/images/marker.png"
+const markerPath = "/images/marker.png"
 
 export default function Entry(props) {
     return (
