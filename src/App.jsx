@@ -1,6 +1,6 @@
-import Header from "./components/Header"
-import Entry from "./components/Entry"
-import data from "./data"
+import Header from "./Header"
+import Entry from "./Entry"
+import data from "../data"
 
 export default function App() {
     
