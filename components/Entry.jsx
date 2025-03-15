@@ -1,4 +1,4 @@
-import marker from 'import marker from "../marker.png"
+import marker from 'import marker from "./marker.png"
 
 export default function Entry(props) {
     return (
