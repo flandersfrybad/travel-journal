@@ -1,4 +1,4 @@
-const globePath = "https://github.com/flandersfrybad/travel-journal/blob/main/dist/images/globe.png"
+const globePath = "images/globe.png"
 
 export default function Header() {
     return (
