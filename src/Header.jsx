@@ -1,4 +1,4 @@
-import globePath from "dist/images/globe.png"
+import globePath from "https://github.com/flandersfrybad/travel-journal/blob/main/dist/images/globe.png?raw=true"
 
 export default function Header() {
     return (
