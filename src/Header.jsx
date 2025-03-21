@@ -1,4 +1,4 @@
-const globePath = "./assets/images/globe.png"
+const globePath = "/images/globe.png"
 
 export default function Header() {
     return (

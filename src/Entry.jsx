@@ -1,4 +1,4 @@
-const markerPath = "./assets/images/marker.png"
+const markerPath = "/images/marker.png"
 
 export default function Entry(props) {
     return (
