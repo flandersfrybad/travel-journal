@@ -1,9 +1,9 @@
-const globePath = "/images/globe.png"
+import globeIcon from "../public/images/globe.png"
 
 export default function Header() {
     return (
         <header>
-            <img src={globePath} alt="globe icon" />
+            <img src={globeIcon} alt="globe icon" />
             <h1>my travel journal.</h1>
         </header>
     );
